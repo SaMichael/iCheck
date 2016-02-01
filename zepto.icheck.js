@@ -1,5 +1,6 @@
 /*!
  * iCheck v0.9.1, http://git.io/uhUPMA
+ * SaMichael
  * =================================
  * Powerful Zepto plugin for checkboxes and radio buttons customization
  *
